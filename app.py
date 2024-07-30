@@ -16,7 +16,7 @@ st.write('This program aims to provide users with an easy to understand Black Sc
 
 # ----------------------------   THE MATHS ------------------------------------------
 
-'''''
+
 st.header('The Math')
 with st.expander("CLICK TO SHOW AND HIDE THE MATH (its kinda long)"):
 
@@ -30,7 +30,7 @@ with st.expander("CLICK TO SHOW AND HIDE THE MATH (its kinda long)"):
     for img in image_files:
             st.image(img)
 
-''''' 
+
 
 # -------------CALCULATOR --------------- 
 
