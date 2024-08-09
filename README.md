@@ -6,6 +6,8 @@
 ## CLICK HERE TO VIEW ONLINE: 
 https://black-scholes-tool.streamlit.app/
 
+NOTE: Sometimes the site is down as streamlit will put projects to sleep that aren't frequently viewed... 
+
 This is a Black-Scholes Educational Tool. It contains a mathematical overview of the model, a standard calculator for the model, and can perform many other relevant calculations with visualizations such as the Greeks. It also calculates Historical and Implied Volatilities for a selected asset.
 
 
